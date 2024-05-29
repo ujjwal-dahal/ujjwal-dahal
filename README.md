@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React , Django**
 
-- 👨‍💻 All of my projects are available at [https://ujjwaldahal.my.canva.site/portfolio-website](https://ujjwaldahal.my.canva.site/portfolio-website)
+- 👨‍💻 All of my projects are available at https://ujjwaldahal.my.canva.site/portfolio-website
 
-- 📫 How to reach me **www.linkedin.com/in/brightnessujjwal**
+- 📫 How to reach me **https://linkedin.com/in/brightnessujjwal**
 
 - ⚡ Fun fact **I can debug code in my sleep!😁**
 
