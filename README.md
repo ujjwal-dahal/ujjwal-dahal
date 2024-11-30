@@ -1,7 +1,7 @@
 ![logo](https://github.com/ujjwal-dahal/ujjwal-dahal/blob/main/GitHUB.png)
 
-<h1 align="center">Hi 👋, I'm Ujjwal Dahal</h1>
-<h3 align="center">A passionate Full-Stack developer, Graphics Designer, & Video Editor from Nepal, always eager to learn new technologies and dedicated to hard work.</h3>
+
+![logo](https://github.com/ujjwal-dahal/ujjwal-dahal/blob/main/Hi--Im-Ujjwal-Dahal.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-dahal&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal-dahal" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal-dahal" alt="ujjwal-dahal" /></a> </p>
