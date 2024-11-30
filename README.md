@@ -1,4 +1,4 @@
-![logo](https://github.com/ujjwal-dahal/ujjwal-dahal/blob/main/github%20banner.png)
+![logo](https://github.com/ujjwal-dahal/ujjwal-dahal/blob/main/GitHUB.png)
 
 <h1 align="center">Hi 👋, I'm Ujjwal Dahal</h1>
 <h3 align="center">A passionate Full-Stack developer, Graphics Designer, & Video Editor from Nepal, always eager to learn new technologies and dedicated to hard work.</h3>
