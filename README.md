@@ -16,7 +16,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brightnessujjwal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brightnessvlogs) 
 
-## 👨‍💻 HacktoberFest 2024
+# 👨‍💻 HacktoberFest 2024
 <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm30xdl90247100cmef30qfgi3" target="_blank">
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" alt="Holopin Badge" width="150" />
 </a>
