@@ -16,10 +16,20 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brightnessujjwal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brightnessvlogs) 
 
-## HacktoberFest 2024
+## 👨‍💻 HacktoberFest 2024
+<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm30xdl90247100cmef30qfgi3" target="_blank">
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" alt="Holopin Badge" width="150" />
+</a>
+<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm30xdl43246980cmeaz9lw10v" target="_blank">
+  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-robe-0-0.webp" alt="Holopin Badge" width="150" />
+</a>
+<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm31g8r9m357930cmo1zz9gu3a" target="_blank">
+  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-robe-witch-0.webp" alt="Holopin Badge" width="150" />
+</a>
 <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm31g9qz564550cmggz044555" target="_blank">
   <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-robe-witch-eclipse.webp" alt="Holopin Badge" width="150" />
 </a>
+
 
 
 # 💻 Tech Stack:
