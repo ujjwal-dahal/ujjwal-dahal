@@ -1,4 +1,4 @@
-![logo](https://github.com/ujjwal-dahal/ujjwal-dahal/blob/main/GitHUB.png)
+![logo](https://github.com/ujjwal-dahal/ujjwal-dahal/blob/main/GitHUB-Latest.png)
 
 
 ![logo](https://github.com/ujjwal-dahal/ujjwal-dahal/blob/main/Hi--Im-Ujjwal-Dahal.png)
