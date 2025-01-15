@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal-dahal" alt="ujjwal-dahal" /></a> </p>
 
 ### About Me
-- 🌱 Currently learning ** Django,React.js and Next.js**
+- 🌱 Currently learning **Data Structure & Algorithm , Django & Next.js**
 - 👨‍💻 Explore all my projects at [My Portfolio](https://ujjwaldahal.my.canva.site/portfolio-website)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/brightnessujjwal)
 - ⚡ Fun fact: **I can debug code in my sleep!** 😁
